@@ -8,7 +8,7 @@ function Work() {
     <div className="work-container">
         <h1 className="project-heading">PROJECTS</h1>
         <div className="project-card">
-         {WordCardData.map=((val,ind)=>{
+         {WordCardData.map((val,ind)=>{
             return(
                 <WorkCard key={ind}
                 imgsrc={val.imgsrc}
