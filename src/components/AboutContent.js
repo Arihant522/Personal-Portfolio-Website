@@ -3,6 +3,7 @@ import React from 'react'
 import { Link } from "react-router-dom"
 import resume from "../assets/Arihant-Resume.pdf"
 import CodingProfile from "./Coding-Profile"
+import Skill from "./Skill"
 
 const AboutContent = () => {
   return (
@@ -17,6 +18,7 @@ const AboutContent = () => {
         </div>
     </div>
     <CodingProfile/>
+    <Skill/>
     </div>
     
     
