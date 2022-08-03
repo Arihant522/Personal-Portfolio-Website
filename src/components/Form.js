@@ -3,7 +3,7 @@ import React from 'react'
 
 const Form = () => {
   return (
-    <form name="contact" netifly>
+    <form name="contact" netlify>
         <label>Your Name*</label>
         <input type="text" name="name" required></input>
         <label>Email*</label>
