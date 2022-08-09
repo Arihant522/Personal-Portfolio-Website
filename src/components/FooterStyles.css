@@ -38,10 +38,10 @@
     margin-top: 1rem;
     
 }
-.icon{
+/* .icon{
     color: white;
     margin: 1rem;
-}
+} */
 
 h4{
     font-size: 1.2rem;
@@ -52,8 +52,19 @@ p{
 }
 @media screen and (max-width:640px) {
     .footer-container{
-        
-        grid-template-columns: 1fr;
-        
+        grid-template-columns: 1fr;   
+    }
+    
+    .linkedin{
+        margin-left: 18vw;
+    }
+    .instagram{
+        margin-left: 34vw;
+    }
+    .twitter{
+        margin-left: 50vw;
+    }
+    .github{
+        margin-left: 65vw;
     }
 }

@@ -26,15 +26,15 @@ const Footer = () => {
            </div>
          <div className="right">
               <div className="social">
-              <a href="https://www.facebook.com/profile.php?id=100069767854918" rel="noopener" target="_blank"><FaFacebook className="icon" size={30} style={{ marginRight:"1rem"}}/></a>
+              <a href="https://www.facebook.com/profile.php?id=100069767854918" rel="noopener" target="_blank"><FaFacebook className="icon facebook" size={50} style={{ marginRight:"1rem"}}/></a>
 
-              <a href="https://www.linkedin.com/in/arihant-jain-b93b2a19a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSHHPtqu5TQ%2BeS5kFmJRF%2BQ%3D%3D" rel="noopener" target="_blank"><FaLinkedin className="icon" size={30} style={{ marginRight:"1rem"}}/></a>
+              <a href="https://www.linkedin.com/in/arihant-jain-b93b2a19a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSHHPtqu5TQ%2BeS5kFmJRF%2BQ%3D%3D" rel="noopener" target="_blank"><FaLinkedin className="icon linkedin" size={50} style={{ marginRight:"1rem"}}/></a>
 
-              <a href="https://www.instagram.com/arihantjain502" rel="noopener" target="_blank"><FaInstagram className="icon" size={30} style={{ marginRight:"1rem"}}/></a>
+              <a href="https://www.instagram.com/arihantjain502" rel="noopener" target="_blank"><FaInstagram className="icon instagram" size={50} style={{ marginRight:"1rem"}}/></a>
 
-              <a href="https://twitter.com/Arihant05Jain" rel="noopener" target="_blank"><FaTwitter className="icon" size={30} style={{ marginRight:"1rem"}}/></a>
+              <a href="https://twitter.com/Arihant05Jain" rel="noopener" target="_blank"><FaTwitter className="icon twitter" size={50} style={{ marginRight:"1rem"}}/></a>
 
-              <a href="https://github.com/Arihant522" rel="noopener" target="_blank"><FaGithub className="icon" size={30} style={{ marginRight:"1rem"}}/></a>
+              <a href="https://github.com/Arihant522" rel="noopener" target="_blank"><FaGithub className="icon github" size={50} style={{ marginRight:"1rem"}}/></a>
               </div>
          </div>
       </div>

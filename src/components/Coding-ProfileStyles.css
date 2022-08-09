@@ -1,3 +1,7 @@
+.coding-profile-heading{
+    margin-top: 4vh;
+    font-size: 3rem;
+}
 .icon{
     color: white;
 }
@@ -14,23 +18,30 @@
     text-align: center;
     align-items: center;
     position: absolute;
-    top: 2rem;
+    top: 3.5rem;
     left: 15rem;
     font-size: 2rem;
 }
-
 @media screen and (max-width:1020px) {
+    .coding-profile{
+        position: relative;
+       
+    }
     .each-profile{
         padding: 2rem;
-        padding-left: 4rem;
+        padding-left: 2rem;
         position:relative
+    }
+    .icon{
+        position: absolute;
+        left: 2vw;
     }
     .profile-heading{
         text-align: center;
         align-items: center;
         position: absolute;
-        top: 2.3rem;
-        left: 8rem;
+        top: 3rem;
+        left: 6rem;
         font-size: 1.8rem;
     }
     .coding-profile-heading{

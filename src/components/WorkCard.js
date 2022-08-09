@@ -1,7 +1,5 @@
 import "./WorkCardStyles.css";
 import React from 'react'
-import {  NavLink } from "react-router-dom";
-
 const WorkCard=(props)=> {
   return (
     <div className="project-card">

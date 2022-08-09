@@ -8,7 +8,7 @@ const HeroImg = () => {
         <div className="mask">
           <img className="intro-img" src={IntroImg} alt="intro-img"/>
         </div>
-        <div className="content">
+        <div className="intro-content">
            <p>HI, I am a WEB DEVELOPER</p>
            <h1>REACT <br/>DEVELOPER</h1>
            <Link to="/project" className="btn">PROJECTS</Link>
