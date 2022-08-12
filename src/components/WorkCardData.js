@@ -1,3 +1,4 @@
+import Project3 from "../assets/project3.png"
 const ProjectCardData=[
  {
     imgsrc : "https://th.bing.com/th/id/OIP.sCr29MflYT8fU48UUXrwHgAAAA?w=322&h=152&c=7&r=0&o=5&dpr=1.25&pid=1.7",
@@ -16,12 +17,12 @@ const ProjectCardData=[
     tech:"React"
   },
   {
-    imgsrc : "https://th.bing.com/th/id/OIP.7lLR3cO2aB6a7c4Ahq9IBwHaEm?w=312&h=193&c=7&r=0&o=5&dpr=1.25&pid=1.7",
-    title:"Analog Clock",
-    text:"Analog Clock allows to show the current time based on javscript functions and css manipulation.",
-    view:"https://arihant522.github.io/Analog-Clock/",
-    source:"https://github.com/Arihant522/Analog-Clock",
-    tech:"HTML CSS JAVASCRIPT"
+    imgsrc : Project3,
+    title:"Personal Portfolio Website",
+    text:"The site showcases the projects created by me and give other information about me like my social media platforms and ways to connect with me",
+    view:"https://portfolioarihant.netlify.app/",
+    source:"https://github.com/Arihant522/Personal-Portfolio-Website.git",
+    tech:"React"
   }
   
 ];
